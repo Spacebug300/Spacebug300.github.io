@@ -1,2 +1,2 @@
 # Spacebug300.github.io
-This repository is a test to see what Github does and how to do things with it. There isn't anything interesting in here...
+This repository is a website I created to put interesting things on.
