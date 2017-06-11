@@ -11,3 +11,8 @@ body {
   padding-bottom: 20px;
   border-bottom: 5px solid white;
 }
+
+.bodytxt {
+  margin-top: 60px;
+  font-size: 24px;
+}
