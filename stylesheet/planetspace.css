@@ -5,8 +5,8 @@ body {
   font-family: verdana,serif;
 }
 
-.logo {
-  align: center;
+#logo {
+  position: center;
 }
 
 #titlep {
