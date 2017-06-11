@@ -13,6 +13,7 @@ body {
 }
 
 .bodytxt {
-  border-top: 50px;
+  position: relative;
+  margin-top: 50px;
   font-size: 20px;
 }
