@@ -4,7 +4,13 @@ body {
   color: white;
 }
 
-#title {
+#titlep {
   text-align: center;
+  color: #11b448;
   font-size: 100px;
+}
+
+#titles {
+  text-align: center;
+  color: #023790;
 }
