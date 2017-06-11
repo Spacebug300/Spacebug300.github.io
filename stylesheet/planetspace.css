@@ -6,6 +6,7 @@ body {
 }
 
 #titlep {
+  padding: 0px;
   text-align: center;
   color: #11b448;
   font-size: 150px;
@@ -13,6 +14,7 @@ body {
 }
 
 #titles {
+  padding: 0px;
   text-align: center;
   color: #023790;
   font-family: impact,monospace;
