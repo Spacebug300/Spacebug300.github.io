@@ -8,9 +8,11 @@ body {
   text-align: center;
   color: #11b448;
   font-size: 100px;
+  font-family: impact,monospace;
 }
 
 #titles {
   text-align: center;
   color: #023790;
+  font-family: impact,monospace;
 }
