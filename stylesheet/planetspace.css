@@ -6,6 +6,7 @@ body {
 }
 
 #logo {
+  display: block;
   margin: auto;
 }
 
