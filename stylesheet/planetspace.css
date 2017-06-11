@@ -8,6 +8,7 @@ body {
 #logo {
   display: block;
   margin: auto;
+  padding-bottom: 10px;
   border-bottom: 5px solid white;
 }
 
