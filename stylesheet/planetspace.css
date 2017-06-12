@@ -21,3 +21,7 @@ body {
 #abouthdr {
   font-weight: bold;
 }
+
+#disclaimer {
+  position: absolute;
+}
