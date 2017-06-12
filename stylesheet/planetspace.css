@@ -3,6 +3,7 @@ body {
   background-image: url(/images/stars.jpg);
   color: white;
   font-family: verdana,serif;
+  position: relative;
 }
 
 #logo {
@@ -13,7 +14,6 @@ body {
 }
 
 .abouttxt {
-  position: relative;
   top: 50px;
   font-size: 18px;
 }
