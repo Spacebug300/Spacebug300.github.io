@@ -23,4 +23,5 @@ body {
 
 #disclaimer {
   position: fixed;
+  bottom: 3px;
 }
