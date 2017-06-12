@@ -12,8 +12,12 @@ body {
   border-bottom: 5px solid white;
 }
 
-.bodytxt {
+.abouttxt {
   position: relative;
   top: 50px;
   font-size: 20px;
+}
+
+#abouthdr {
+  font-weight: bold;
 }
